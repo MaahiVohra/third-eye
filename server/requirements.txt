@@ -10,5 +10,4 @@ pyaml
 flask
 flask-cors
 json
-flask-socket.io
-base64
+flask-socketio
