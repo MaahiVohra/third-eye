@@ -8,3 +8,4 @@ streamlit
 opencv-python
 pyaml
 flask
+flask-cors
