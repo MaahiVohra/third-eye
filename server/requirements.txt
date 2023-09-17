@@ -9,3 +9,6 @@ opencv-python
 pyaml
 flask
 flask-cors
+json
+flask-socket.io
+base64
