@@ -10,3 +10,4 @@ pyaml
 flask
 flask-cors
 flask-socketio
+eventlet
