@@ -9,5 +9,4 @@ opencv-python
 pyaml
 flask
 flask-cors
-json
 flask-socketio
